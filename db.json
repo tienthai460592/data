@@ -1,7 +1,7 @@
 { 
     "messages": [
-    { "isEncrypted": "true", "type": "London", "lat": 51.5074, "lng": 0.1278,"timestamp":"2017-07-04*13:23:55" },
+    { "isEncrypted": "true", "type": "London", "lat": 51.5074, "lng": -0.1278,"timestamp":"2017-07-04*13:23:55" },
     { "isEncrypted": "true", "type": "Amsterdam", "lat": 52.3667, "lng": 4.8945,"timestamp":"2017-07-04*13:23:55" },
-    { "isEncrypted": "true", "type": "Sydney", "lat": 33.8688, "lng": 151.2093,"timestamp":"2017-07-04*13:23:55" }   
+    { "isEncrypted": "true", "type": "Sydney", "lat": -33.8688, "lng": 151.2093,"timestamp":"2017-07-04*13:23:55" }   
   ]
 }
